@@ -1,19 +1,18 @@
 # Knowledge-Loop
 
-Final project for the Building AI course
-
 ## Summary
 
 Knowledge Loop is a low-friction system for capturing, enriching, and activating organizational knowledge. It supports traceable AI interactions, trustworthy document reuse, and learning integration within regulated public sector environments.
+Final project for the Building AI course
 
 ## Background
 
 Public administrations struggle to preserve and reuse knowledge in ways that are traceable, explainable, and accessible — especially under regulatory constraints. 
 Staff often face challenges such as:
 
-*Repetitive or redundant document searches
-*Fragmented knowledge management systems
-*Low trust in AI-generated responses due to missing context or sources
+* Repetitive or redundant document searches
+* Fragmented knowledge management systems
+* Low trust in AI-generated responses due to missing context or sources
 
 This project is motivated by the need to build trust in AI through traceability and explainability, especially in legal and political contexts. It's designed for environments where auditable knowledge governance and human oversight are essential.
 
@@ -23,29 +22,29 @@ The Knowledge Loop ingests documents (e.g., legal texts, guidance, FAQs), enrich
 
 It can be used by:
 
-*Internal staff needing reliable guidance
-*Legal and policy teams curating compliance material
-*HR for on- and offboarding, intern mobility and talent scouting
-*Trainers developing microlearning content
-*Chatbots serving the public with filtered, auditable information
+* Internal staff needing reliable guidance
+* Legal and policy teams curating compliance material
+* HR for on- and offboarding, intern mobility and talent scouting
+* Trainers developing microlearning content
+* Chatbots serving the public with filtered, auditable information
 
 <img width="572" alt="Loop" src="https://github.com/user-attachments/assets/10877f87-93f9-4efc-b619-6609f1c5590a" />
 
 ## Data sources and AI methods
 
-*National legal texts and EU regulations
-*International conventions
-*Legal notices, recommendation
-*Decisions, Litigation, 
-*Directives, circulars, notes, reports
-*Procedures, processes, forms
-*Glossaries, Q&As, and internal feedback
+* National legal texts and EU regulations
+* International conventions
+* Legal notices, recommendation
+* Decisions, Litigation 
+* Directives, circulars, notes, reports
+* Procedures, processes, forms
+* Glossaries, Q&As, and internal feedback
 
 The EAA legal assistant prototype uses:
-*Official EU legal texts such as Directive (EU) 2019/882 (EAA)
-*Norm EN 301549
-*National transpositions (Luxembourg, Germany, France)
-*Institutional glossaries, Q&As, and internal feedback
+* Official EU legal texts such as Directive (EU) 2019/882 (EAA)
+* Standard EN 301549
+* National transpositions (Luxembourg)
+* Institutional glossaries, Q&As, and internal feedback
 
 AI methods: GPT-4 (via ChatGPT Plus), semantic search, retrieval-augmented generation (RAG, conceptually)
 
@@ -67,7 +66,7 @@ Limitations & considerations:
 *Must meet GDPR and AI Act traceability requirements
 *Needs clear boundaries between public and internal knowledge
 
-Ensuring Traceability, auditability and explainability with the washing machine window:
+Ensuring traceability, auditability and explainability with the washing machine window:
 <img width="571" alt="Washing Machine" src="https://github.com/user-attachments/assets/071c0e40-fe7f-4ff1-9989-54d86df26057" />
 
 ## What next?
