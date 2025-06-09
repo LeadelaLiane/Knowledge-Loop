@@ -76,7 +76,7 @@ It can use:
 
 * GPT-4/Mistral/Llama (for language enrichment and simplification)
 * Semantic search or RAG (for scalable retrieval)
-* CAG (for precise results sepending on user roles)
+* CAG (for precise results depending on user roles)
 * Governance overlays (who validated what, when, why)
 
 The EAA legal assistant prototype uses:
