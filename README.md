@@ -28,7 +28,7 @@ The Knowledge Loop acts as a knowledge lifecycle engine. Documents are ingested,
 
 One of the Loop’s signature innovations is the “Washing Machine Window” — a transparent UI that lets users observe exactly what happens to a document: when it was ingested, how it was processed, and where it was used. Like the transparent door on early washing machines, it builds trust through visibility and ensures explainability, especially in the adoption phase.
 
-<img width="572" alt="Loop" src="https://github.com/user-attachments/assets/10877f87-93f9-4efc-b619-6609f1c5590a" />
+<img width="571" alt="Washing Machine" src="https://github.com/user-attachments/assets/88e05b83-1760-4ed4-9fb9-e7f8d3339747" />
 
 ### AI Literacy as a Foundation
 The Knowledge Loop is not just a technical system — it’s a cultural shift. For employees to trust, challenge, and co-evolve AI-supported knowledge systems, they need a basic understanding of:
