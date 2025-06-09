@@ -79,12 +79,6 @@ It can use:
 * CAG (for precise results sepending on user roles)
 * Governance overlays (who validated what, when, why)
 
-Document: "Tax return FAQ, v3"
-→ Cleaned & tagged
-→ Reviewed by expert (Marie, 12.03.2025)
-→ Used in Chatbot + LMS module
-→ Logged in lifecycle tracker
-
 The EAA legal assistant prototype uses:
 * Official EU legal texts such as Directive (EU) 2019/882 (EAA)
 * Standard EN 301549
@@ -93,7 +87,8 @@ The EAA legal assistant prototype uses:
 
 Example from the prototype:
 User: Can a kiosk be exempt from accessibility requirements?
-GPT: Under Article 2(3)(a) of Directive (EU) 2019/882, products used exclusively by microenterprises may be exempt. However, Member States may regulate this differently. See also Luxembourg's transposition law, Article 4.
+GPT: Under Article 2(3)(a) of Directive (EU) 2019/882, products used exclusively by microenterprises may be exempt. However, Member States may regulate this differently.
+See also Luxembourg's transposition law, Article 4.
 
 ## Challenges
 
@@ -108,6 +103,8 @@ Ethical and legal considerations:
 * Must maintain clear access control and auditability
 * Needs regular validation cycles
 * Requires hybrid governance: part automated, part expert-led
+
+ <img width="573" alt="Governance" src="https://github.com/user-attachments/assets/331702f9-55ff-4652-9e38-7ac9a1564d94" />
   
 ## What next?
 
@@ -124,8 +121,6 @@ Skills needed:
 * UX for trust-centric interfaces
 * Legal and compliance input
 * Change management for adoption
-
- <img width="573" alt="Governance" src="https://github.com/user-attachments/assets/331702f9-55ff-4652-9e38-7ac9a1564d94" />
  
 ## Acknowledgments
 
